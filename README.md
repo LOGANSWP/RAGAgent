@@ -4,6 +4,13 @@ A full-stack, production-grade Retrieval-Augmented Generation (RAG) application.
 
 Unlike standard local RAG project, this application is built for the wild—featuring fault-tolerant asynchronous workflows, step-level observability, rate limiting, and automatic retries using Inngest.
 
+## Example Video
+
+
+https://github.com/user-attachments/assets/5dafed4e-53f6-4659-8f18-0b5d410c156e
+
+
+
 ## ✨ Key Features
 
 * 📄 Asynchronous Document Ingestion: Built a robust pipeline utilizing LlamaIndex to parse PDFs into optimized 1,000-character chunks (with 200-character overlaps) to generate precise text embeddings.
@@ -115,4 +122,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is MIT licensed.
+
 
