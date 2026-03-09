@@ -2,7 +2,7 @@
 
 A full-stack, production-grade Retrieval-Augmented Generation (RAG) application. This project allows users to securely upload PDFs and query document-specific information using an AI assistant.
 
-Unlike standard local RAG tutorials, this application is built for the wild—featuring fault-tolerant asynchronous workflows, step-level observability, rate limiting, and automatic retries using Inngest.
+Unlike standard local RAG project, this application is built for the wild—featuring fault-tolerant asynchronous workflows, step-level observability, rate limiting, and automatic retries using Inngest.
 
 ## ✨ Key Features
 
@@ -115,3 +115,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 📝 License
 
 This project is MIT licensed.
+
